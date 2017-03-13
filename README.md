@@ -20,13 +20,13 @@ Published : 19/05/2016
 |:----:|:--------------:|:-------------:|
 | ANTONIO | 715215 | 54.6 |
 
-* [surnames_freq_ge_100.csv] (https://github.com/jvalhondo/spanish-names-surnames/blob/master/surnames_freq_ge_100.csv): 
+* [surnames_freq_ge_100.csv] (https://github.com/jvalhondo/spanish-names-surnames/blob/master/surnames_freq_ge_100.csv): those qith frequency greater or equal to 100
 
 | surname | first surname frequency | second surname frequency | both (first & second) surnames frequency |
 |:-------:|:-----------------------:|:------------------------:|:----------------------------------------:|
 | GARCIA | 1473189 | 1489086 | 80494 |
 
-* [surnames_freq_ge_20_le_99.csv] (https://github.com/jvalhondo/spanish-names-surnames/blob/master/surnames_freq_ge_20_le_99.csv):
+* [surnames_freq_ge_20_le_99.csv] (https://github.com/jvalhondo/spanish-names-surnames/blob/master/surnames_freq_ge_20_le_99.csv): those with frequency greater or equal to 20 and less or equal to 99
 
   | surname | first surname frequency | second surname frequency | both (first & second) surnames frequency |
   |:-------:|:-----------------------:|:------------------------:|:----------------------------------------:|
