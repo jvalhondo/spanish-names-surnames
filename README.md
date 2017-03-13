@@ -28,9 +28,9 @@ Published : 19/05/2016
 
 * [surnames_freq_ge_20_le_99.csv] (https://github.com/jvalhondo/spanish-names-surnames/blob/master/surnames_freq_ge_20_le_99.csv): those with frequency greater or equal to 20 and less or equal to 99
 
-  | surname | first surname frequency | second surname frequency | both (first & second) surnames frequency |
-  |:-------:|:-----------------------:|:------------------------:|:----------------------------------------:|
-  | DE LOPEZ |99 | 427 | .. |
+| surname | first surname frequency | second surname frequency | both (first & second) surnames frequency |
+|:-------:|:-----------------------:|:------------------------:|:----------------------------------------:|
+| DE LOPEZ |99 | 427 | .. |
  
 **NOTE: The following value '..' means there is no data for that particular case.**
   
