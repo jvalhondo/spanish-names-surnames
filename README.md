@@ -32,10 +32,7 @@ Published : 19/05/2016
   |:-------:|:-----------------------:|:------------------------:|:----------------------------------------:|
   | DE LOPEZ |99 | 427 | .. |
  
-**
-NOTE:
-The following value '..' means there is no data for that particular case.
-**
+**NOTE: The following value '..' means there is no data for that particular case.**
   
   
   
